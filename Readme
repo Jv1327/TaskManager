@@ -1,0 +1,29 @@
+# Task Manager:
+
+# Objetivo
+Aplicar as estruturas de dados Pilha, Fila e Lista em um código existente em C
+
+Código Base
+https://github.com/TigreDoMexico/mentoring-dstask
+
+# Requisitos Funcionais
+O sistema deve ter uma fila de tarefas pendentes, uma lista de tarefas concluídas e uma pilha de tarefas em rascunho.
+
+Toda tarefa criada pelo usuário deve ser enviada primeiro para a Fila de Tarefas Pendentes.
+
+Toda tarefa que sair da Fila de Tarefas Pendentes deve ir para Lista de Tarefas Concluídas.
+
+O usuário deve selecionar as tarefas que devem sair da Lista de Tarefas Concluídas indicando o ID da tarefa.
+
+Toda tarefa que sair da Lista de Tarefas Concluídas deve ir para Pilha de Tarefas em Rascunho.
+
+Toda tarefa que sair da Pilha de Tarefas em Rascunho deve ir para Fila de Tarefas Pendentes.
+
+O usuário deve ter a opção de visualizar todo conteúdo de cada uma das estruturas mencionadas.
+
+Todas as estruturas mencionadas devem se comportar de acordo com suas definições (Fila deve ser uma FIFO e Pilha uma LIFO)
+
+# Como Fazer
+Faça os ajustes necessários no código base para que o sistema atenda aos Requisitos Funcionais acima.
+
+Todas as informações de como que roda e como que está estruturado o código base estão no arquivo README.md.
