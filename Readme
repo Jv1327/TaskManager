@@ -3,7 +3,7 @@
 # Objetivo
 Aplicar as estruturas de dados Pilha, Fila e Lista em um código existente em C
 
-Código Base
+# Código Base:
 https://github.com/TigreDoMexico/mentoring-dstask
 
 # Requisitos Funcionais
@@ -25,5 +25,3 @@ Todas as estruturas mencionadas devem se comportar de acordo com suas definiçõ
 
 # Como Fazer
 Faça os ajustes necessários no código base para que o sistema atenda aos Requisitos Funcionais acima.
-
-Todas as informações de como que roda e como que está estruturado o código base estão no arquivo README.md.
